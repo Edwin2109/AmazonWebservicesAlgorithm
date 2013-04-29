@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmazonWebservicesAlgorithm", "AmazonWebservicesAlgorithm\AmazonWebservicesAlgorithm.csproj", "{7FD9C257-EB0A-415B-95D5-F5B6C7104875}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmazonWebservicesAlgorithm.Test", "AmazonWebservicesAlgorithm.Test\AmazonWebservicesAlgorithm.Test.csproj", "{6FA099B3-A1D6-4E29-81FA-9F6597F14ABC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FD9C257-EB0A-415B-95D5-F5B6C7104875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FD9C257-EB0A-415B-95D5-F5B6C7104875}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FD9C257-EB0A-415B-95D5-F5B6C7104875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FD9C257-EB0A-415B-95D5-F5B6C7104875}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FA099B3-A1D6-4E29-81FA-9F6597F14ABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FA099B3-A1D6-4E29-81FA-9F6597F14ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FA099B3-A1D6-4E29-81FA-9F6597F14ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FA099B3-A1D6-4E29-81FA-9F6597F14ABC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
